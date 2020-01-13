@@ -1,0 +1,8 @@
+node_modules
+tmp
+Dockerfile
+*package*
+*json
+*Dockerfile
+database/dbs.js
+database*
